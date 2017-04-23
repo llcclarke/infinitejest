@@ -41,7 +41,7 @@ using System.Collections;
 
 public class TreePool : MonoBehaviour {
 
-	static int numTrees = 1000;
+	static int numTrees = 10000;
 	public GameObject treePrefab;
 	static GameObject[] trees;
 
