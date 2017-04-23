@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infinitejest", "Assembly-CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infinitejest", "Assembly-CSharp-Editor-firstpass.csproj", "{5806621D-E9D7-A3B5-B8B0-3B76CAA45B68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infinitejest", "Assembly-CSharp-Editor.csproj", "{CCB2B903-EA2B-D467-D760-8414CD85CCE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infinitejest", "Assembly-UnityScript.unityproj", "{679086DB-3D8E-5774-A810-7189B6BC29CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{5806621D-E9D7-A3B5-B8B0-3B76CAA45B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5806621D-E9D7-A3B5-B8B0-3B76CAA45B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5806621D-E9D7-A3B5-B8B0-3B76CAA45B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB2B903-EA2B-D467-D760-8414CD85CCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB2B903-EA2B-D467-D760-8414CD85CCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB2B903-EA2B-D467-D760-8414CD85CCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB2B903-EA2B-D467-D760-8414CD85CCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679086DB-3D8E-5774-A810-7189B6BC29CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679086DB-3D8E-5774-A810-7189B6BC29CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679086DB-3D8E-5774-A810-7189B6BC29CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679086DB-3D8E-5774-A810-7189B6BC29CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
