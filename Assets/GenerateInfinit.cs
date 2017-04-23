@@ -18,8 +18,8 @@ public class GenerateInfinit : MonoBehaviour {
 	public GameObject player;
 
 	int planeSize = 10;
-	int halfTilesX = 11;
-	int halfTilesZ = 11;
+	int halfTilesX = 9;
+	int halfTilesZ = 9;
 	Vector3 startPos;
 
 	Hashtable tiles = new Hashtable();
